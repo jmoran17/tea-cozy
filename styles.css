@@ -1,6 +1,16 @@
-*{
+* {
     box-sizing: border-box;
+    font-family:'Helvetica';
+    color: seashell;
+    background-color: black;
+    opacity: .9;
 }
-div{
-    color: aliceblue;
+img{
+    text-align: left;
+    height: 50px;
+    margin-left: 10px;
+}
+nav .links{
+    text-align: right;
+    text-decoration: underline;
 }
